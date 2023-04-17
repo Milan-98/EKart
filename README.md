@@ -2,9 +2,7 @@
 
 EKart App is a web application built using React, React Router, Vite, and Faker to generate product images and text. It allows users to browse through a catalog of products, filter products by price, category, and rating, and add items to their cart.
 
-## Demo
 
-[]()
 
 ## Features
 - Product catalog with images and text generated using Faker
@@ -37,6 +35,9 @@ npm run dev
 ```
 
 4. Open your browser and navigate to `http://localhost:3000`.
+## Project Demo
+  
+  [Ekart-India](https://ekart-india.netlify.app/)
 
 ## ScreenShot
 
