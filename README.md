@@ -15,23 +15,22 @@ To run EKart App on your local machine, follow these steps:
 
 1. Clone the repository:
 
-bash``
+```bash
 git clone https://github.com/Milan-98/EKart.git
-``
+```
 
 2. Install the dependencies:
 
+```bash
 npm install
+```
 
-markdown
-Copy code
+
 
 3. Start the application:
-
+```bash
 npm run dev
-
-vbnet
-Copy code
+```
 
 4. Open your browser and navigate to `http://localhost:3000`.
 
