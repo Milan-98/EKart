@@ -2,8 +2,6 @@
 
 EKart App is a web application built using React, React Router, Vite, and Faker to generate product images and text. It allows users to browse through a catalog of products, filter products by price, category, and rating, and add items to their cart.
 
-
-
 ## Features
 - Product catalog with images and text generated using Faker
 - Product filter by price, category, and rating
@@ -46,7 +44,7 @@ npm run dev
 ## Usage
 
 EKart App has a simple and intuitive user interface that makes it easy to navigate and use. Users can browse through the product catalog, filter products, and add items to their cart.
-
+Date: 17 April 2023 day
 ## Contributions
 
 Contributions to EKart App are welcome. If you find a bug or have a suggestion for a new feature, feel free to open an issue or submit a pull request. Before submitting a pull request, please make sure to run the tests and ensure that your code follows the project's style and formatting guidelines.
