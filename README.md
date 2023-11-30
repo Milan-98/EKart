@@ -35,7 +35,7 @@ npm run dev
 4. Open your browser and navigate to `http://localhost:3000`.
 ## Project Demo
   
-  [Ekart-India](https://ekart-india.netlify.app/)
+  [Ekart-India](https://e-kart-amber.vercel.app/)
 
 ## ScreenShot
 
